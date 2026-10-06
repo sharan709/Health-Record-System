@@ -1,4 +1,4 @@
-CareVault – Health Record System
+Health Record System
 📌 Project Overview
 CareVault is a web-based Health Record System designed to help healthcare staff manage patient information in one place.
 
